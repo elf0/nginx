@@ -10,3 +10,4 @@ Steps:
 2: ./configure
 3: make -j4
 4: Open nginx.pro with QtCreator
+5: Add "set follow-fork-mode child" to "GDB" page of QtCreator's "Debuger" configure.
